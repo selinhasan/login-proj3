@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "Popcorn",
+      "path": "ios",
+      "framework": "swift"
+    }
+  ]
+}
